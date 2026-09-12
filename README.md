@@ -2,7 +2,7 @@
 
 ### The California deployment of WICit is live!
 
-#### Check it out at [findwic.com](http://findwic.com)!
+#### ~~Check it out at [findwic.com](http://findwic.com)!~~ Currently offline until version 2.0.0 is released.
 
 ---
 
