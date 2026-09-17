@@ -34,6 +34,7 @@ export const LOCALES = {
   ar: { name: "Arabic", nativeName: "العربية", dir: "rtl" },
   pa: { name: "Punjabi", nativeName: "ਪੰਜਾਬੀ", dir: "ltr" },
   hmn: { name: "Hmong", nativeName: "Hmoob", dir: "ltr" },
+  xyz: { name: "Mock", nativeName: "Mock", dir: "ltr" },
 };
 
 /** @type {string[]} Supported locale codes, in the order they appear in the switcher. */

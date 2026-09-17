@@ -1,1 +1,118 @@
-{}
+{
+  "nav.map": "哪些商家接受 WIC？",
+  "nav.qualify": "我符合资格吗？",
+  "nav.about": "什么是 WIC？",
+  "nav.search": "哪些食品符合 WIC 资格？",
+
+  "header.tagline": "在哪里以及如何申请和使用 WIC",
+  "header.logoTitle": "WICit：在哪里以及如何申请和使用 WIC。",
+  "header.logoAlt": "查找 WIC 标志。",
+  "header.languageLabel": "语言",
+  "header.languageTitle": "选择语言",
+
+  "footer.disclaimer": "WICit 是免费的开源软件（<a href=\"https://github.com/opensacorg/wicit\" target=\"_blank\" rel=\"noopener\">源代码</a>），与任何联邦或州级 WIC 项目均无隶属关系。",
+
+  "feedback.tweetUs": "如果您对如何改进此功能有任何建议，请在 Twitter 上联系我们：<a href=\"https://twitter.com/wicitapp\" target=\"_blank\" rel=\"noopener\">@wicitapp</a>。",
+
+  "map.directions": "路线",
+  "map.initFailed": "抱歉，此浏览器无法加载地图。{reason}",
+  "map.geolocationDenied": "抱歉，定位功能已被禁用。",
+  "map.geolocationFailed": "抱歉，我们无法获取您的位置。",
+  "map.sampleFallback": "正在显示示例地点（实时数据暂不可用）。",
+  "map.locationsFailed": "无法加载附近地点。",
+  "map.locateTitle": "将地图中心定位到我的当前位置",
+
+  "about.heading": "关于 WIC",
+  "about.intro": "WIC 是一项由联邦政府资助、面向妇女、婴儿和儿童的健康与营养计划。WIC 通过提供可在 WIC 授权商家购买健康补充食品的福利、营养教育，以及帮助寻找医疗保健和其他社区服务来支持家庭。在加利福尼亚州，84 个 WIC 机构通过全州 650 多个服务点，每月为超过 145 万名参与者提供本地服务。",
+  "about.who.heading": "哪些人可以参加 WIC？",
+  "about.who.women": "怀孕、正在哺乳或刚生完孩子的女性。",
+  "about.who.children": "5 岁以下的儿童（包括寄养儿童）",
+  "about.who.income": "低收入或中等收入家庭（有工作的家庭也可能符合资格）",
+  "about.who.quizPrompt": "想知道您是否符合 WIC 资格，请尝试我们的<a href=\"/qualify/residency\" data-link>“我符合资格吗？”</a>问卷。",
+
+  "about.start.heading": "如何开始申请 WIC",
+  "about.start.body": "请致电&nbsp;<a href=\"tel://888-942-9675\">1-888-WIC-WORKS</a>，与 WIC 工作人员联系，他们可以帮助您找到当地的 WIC 办公室。您也可以访问&nbsp;<a href=\"https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/Program-Landing1.aspx\" target=\"_blank\" rel=\"noopener\">加利福尼亚州 WIC 官方网站</a>，了解更多 WIC 官方信息。观看下面的视频可以进一步了解该项目。",
+
+  "about.resources.heading": "资源",
+  "about.resources.intro": "WIC 提供许多项目和服务，帮助加利福尼亚居民保持健康。从教育资料到帮助参与者在当地农贸市场购物的项目，WIC 可以帮助确保您和您的孩子获得所需的营养。",
+
+  "about.markets.heading": "农贸市场",
+  "about.markets.intro": "WIC 提供两个项目，帮助您在当地农贸市场购买水果和蔬菜。",
+  "about.markets.fmnp.heading": "农贸市场营养计划（FMNP）",
+  "about.markets.fmnp.body": "农贸市场营养计划（FMNP）由美国农业部（USDA）资助，旨在让 WIC 家庭和老年人能够从农贸市场购买新鲜、有营养且在本地种植的水果和蔬菜。每个符合资格的 WIC 家庭或老年人每个季节会收到价值 {amount} 的支票，可用于在加利福尼亚州 WIC 授权的农贸市场向 WIC 授权农户购买新鲜水果、蔬菜和切割香草。",
+
+  "about.markets.fvc.heading": "WIC 水果和蔬菜支票（FVC）",
+  "about.markets.fvc.body": "2009 年 10 月，水果和蔬菜被加入 WIC 食品福利包，参与者可以在授权的杂货店购买这些食品。2010 年 5 月，第一家农贸市场获准接受 WIC 水果和蔬菜支票。自 2010 年以来，已有超过 200 名农户和 35 个市场获准接受水果和蔬菜支票。",
+
+  "about.education.heading": "教育资料",
+  "about.education.body": "您对健康了解得越多，就越容易帮助孩子保持健康。请查看 WIC 官方网站上的&nbsp;<a href=\"https://www.cdph.ca.gov/Programs/CFH/DWICSN/Pages/Program-Landing1.aspx\" target=\"_blank\" rel=\"noopener\">教育资料</a>以了解更多信息。",
+
+  "about.wicit.heading": "关于 WICit",
+  "about.wicit.body": "WICit 和 findwic.com 与任何联邦或州级 WIC 项目均无隶属关系。WICit 由&nbsp;<a href=\"https://opensac.org\" target=\"_blank\" rel=\"noopener\">Code for Sacramento</a>&nbsp;创建，旨在帮助加利福尼亚居民更方便地申请和使用 WIC。如果您有兴趣在您的州部署 WICit，请查看&nbsp;<a href=\"https://github.com/opensacorg/wicit\" target=\"_blank\" rel=\"noopener\">WICit GitHub 代码库</a>。",
+
+  "about.attribution": "地图中的购物车图标由 <a href=\"https://thenounproject.com/rjsokolov\" target=\"_blank\" rel=\"noopener\">Roman J. Sokolov</a> 设计，来自 <a href=\"https://thenounproject.com\" target=\"_blank\" rel=\"noopener\">Noun Project</a>。<br /> 地图中的位置图标由 <a href=\"https://thenounproject.com/gilad1\" target=\"_blank\" rel=\"noopener\">Gilad Fried</a> 设计，来自 <a href=\"https://thenounproject.com\" target=\"_blank\" rel=\"noopener\">Noun Project</a>。",
+
+  "notFound.heading": "找不到页面",
+  "notFound.body": "我们找不到该页面。请尝试以下其他选项：",
+
+  "search.heading": "哪些食品符合 WIC 资格？",
+  "search.disclaimer": "我们仍在完善此功能。这里并不是完整的食品列表——有关符合资格食品的更多详细信息，请查看 <a href=\"https://www.fns.usda.gov/wic/wic-food-packages-regulatory-requirements-wic-eligible-foods\" target=\"_blank\" rel=\"noopener\">美国农业部（USDA）网站</a>。",
+  "search.placeholder": "搜索符合资格的食品……",
+  "search.initial": "搜索符合 WIC 资格的食品、品牌和 UPC 条码。",
+  "search.pending": "正在搜索……",
+  "search.error": "抱歉，发生了错误。",
+  "search.noResults": "未找到与 &ldquo;{query}&rdquo; 相关的结果。",
+  "search.upc": "UPC：{upc}",
+  "search.resultCount.one": "显示 {shown} 条，共 {total} 条结果。",
+  "search.resultCount.other": "显示 {shown} 条，共 {total} 条结果。",
+
+  "qualify.heading": "我符合 WIC 资格吗？",
+  "qualify.stepMissing": "该步骤不存在。请重新开始<a href=\"/qualify/residency\" data-link>问卷</a>。",
+  "qualify.no": "否",
+  "qualify.yes": "是",
+
+  "qualify.residency.intro": "这份简短问卷旨在帮助您判断自己是否可能符合 WIC 资格。您的回答<em>不会</em>被保存，本问卷仅供您自行判断是否可能符合 WIC 资格。",
+  "qualify.residency.warning": "请注意，这仅供参考。只有当地 WIC 机构的工作人员才能最终确定您是否符合 WIC 服务资格。请致电&nbsp;<a href=\"tel://888-942-9675\">1-888-WIC-WORKS</a>，确认您是否符合资格。",
+  "qualify.residency.question": "您住在加利福尼亚州吗？",
+  "qualify.residency.no": "否",
+  "qualify.residency.yes": "是",
+
+  "qualify.category.pregnant": "您目前怀孕吗？",
+  "qualify.category.breastfeeding": "您目前是否正在母乳喂养一名未满一岁的儿童？",
+  "qualify.category.infant": "您是否有一名未满六个月的孩子？",
+  "qualify.category.child": "您是否有一名未满五岁的孩子？",
+  "qualify.category.otherPrograms": "您目前是否正在领取以下任何一种福利？",
+  "qualify.category.otherPrograms.medical": "Medi-Cal？",
+  "qualify.category.otherPrograms.snap": "食品券/SNAP？",
+  "qualify.category.otherPrograms.tanf": "TANF？",
+  "qualify.category.otherPrograms.fdpir": "FDPIR？",
+  "qualify.category.otherPrograms.otherState": "其他州提供的 WIC 福利？",
+
+  "qualify.income.legend": "最后一步……",
+  "qualify.income.familySize": "您的家庭共有多少人（包括尚未出生的孩子）？",
+  "qualify.income.familySizePlaceholder": "4",
+  "qualify.income.combined": "您的家庭总收入是多少？",
+  "qualify.income.amountPlaceholder": "金额",
+  "qualify.income.per": "每",
+  "qualify.income.period.year": "年",
+  "qualify.income.period.month": "月",
+  "qualify.income.period.week": "周",
+  "qualify.income.submit": "我符合资格吗？",
+  "qualify.income.missingIncome": "请输入您的收入。",
+  "qualify.income.missingFamilySize": "请输入您的家庭人数。",
+
+  "qualify.result.success.heading": "您很可能符合 WIC 资格！",
+  "qualify.result.success.body": "下一步是与 WIC 工作人员联系。请致电&nbsp;<a href=\"tel://888-942-9675\">1-888-WIC-WORKS</a>开始申请。",
+
+  "qualify.result.residency.heading": "抱歉，您必须居住在加利福尼亚州才能申请加州 WIC。",
+  "qualify.result.residency.body": "如果您正在搬到加利福尼亚州，WIC 可以协助您。请致电&nbsp;<a href=\"tel://888-942-9675\">1-888-WIC-WORKS</a>。",
+
+  "qualify.result.category.heading": "抱歉，WIC 服务对象需要符合以下至少一种情况：",
+  "qualify.result.category.body": "WIC 工作人员也许可以帮助您找到其他适合您的援助项目。如需与 WIC 工作人员联系，请致电&nbsp;<a href=\"tel://888-942-9675\">1-888-WIC-WORKS</a>。",
+
+  "qualify.result.income.heading": "您可能不符合 WIC 资格。",
+  "qualify.result.income.body": "WIC 面向家庭收入低于联邦贫困线 185% 的家庭（{year} 年四口之家的标准为 {threshold}）。您仍应致电&nbsp;<a href=\"tel://888-942-9675\">1-888-WIC-WORKS</a>联系 WIC 工作人员，以最终确认您是否符合资格。",
+
+  "qualify.result.unknown.heading": "哎呀！",
+  "qualify.result.unknown.body": "我们说过不会保存您的数据！不过，您可以重新填写&nbsp;<a href=\"/qualify/residency\" data-link>问卷</a>。"
+}

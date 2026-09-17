@@ -104,11 +104,10 @@ describe("i18n runtime", () => {
   });
 
   it("falls back to the English message for a key a catalog does not translate", async () => {
-    // Every catalog but English is a stub, so this covers the untranslated case wholesale.
     const { initI18n, t, getLocale } = await loadRuntime();
-    await initI18n("es");
+    await initI18n("xyz");
 
-    expect(getLocale()).toBe("es");
+    expect(getLocale()).toBe("xyz");
     expect(t("nav.map")).toBe(enCatalog["nav.map"]);
   });
 
